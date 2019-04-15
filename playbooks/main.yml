@@ -1,3 +1,5 @@
+- import_playbook: nginx.yml
+  tags: nginx
 - import_playbook: mysql.yml
   tags: mysql
 - import_playbook: metabase.yml

@@ -1,3 +1,7 @@
+# Disclaimer:
+
+This project is a fork from: https://github.com/acro5piano/metabase-playbook
+
 # Metabase Playbook
 
 Ansible playbook for setup metabase.
